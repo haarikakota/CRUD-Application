@@ -1,0 +1,30 @@
+tr , td, th, table{
+    border : 1px solid black;
+    padding : 10px;
+}
+.box{
+    margin: 100px auto !important;
+    text-align: center;
+}
+ .input{
+    height: 30px;
+    width: 40% !important;
+    margin: 6px auto !important;
+    border-radius: 15px;
+}
+
+table{
+    margin: 0 auto !important;
+    text-align: center;
+    
+}
+.btn{
+    border-radius: 25px;
+}
+tr , td, th{
+    width: 150px !important;
+}
+
+#update{
+    display: none;
+}
